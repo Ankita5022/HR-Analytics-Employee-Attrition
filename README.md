@@ -28,4 +28,4 @@ This project analyzes employee attrition using Power BI to identify key workforc
 - Majority of attrition occurs within the first few years of employment.
 
 ## Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview.png](dashboard_overview.png)
